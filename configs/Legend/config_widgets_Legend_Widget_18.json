@@ -1,0 +1,23 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "182933ee10c-layer-3": {
+      "selected": true
+    },
+    "182933ea285-layer-2": {
+      "selected": true
+    },
+    "18293b1f7d4-layer-5": {
+      "selected": true
+    },
+    "1829394172e-layer-5": {
+      "selected": true
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": true
+}
